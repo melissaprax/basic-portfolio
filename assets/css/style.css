@@ -43,11 +43,14 @@
 .fs-20px {
     font-size: 20px;
 }
+.fs-25px {
+    font-size: 25px;
+}
 .space-around {
     justify-content: space-around;
 }
 .center {
-justify-content: center;
+    justify-content: center;
 }
 .b-s {
     border: solid;
@@ -55,9 +58,21 @@ justify-content: center;
 .b-w {
     border-width: thin;
 }
+.border-box {
+    box-sizing: border-box;
+}
+.bb-color {
+    background-color: #d3d3d3
+}
 .w-100px {
     width: 100px;
 }
 .w-175px {
     width: 175px;
+}
+.w-700px {
+    width: 700px;
+}
+.flex-end {
+    justify-content: flex-end;
 }
