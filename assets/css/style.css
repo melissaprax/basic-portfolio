@@ -7,6 +7,10 @@
 .fxd-c {
     flex-direction: column;
 }
+.s-i {
+    justify-content: space-between;
+}
+
 .w-100px {
     width: 100px 
 }
@@ -20,7 +24,7 @@
     margin-bottom: 500px
 }
 .ml-20px {
-    margin-left: 20 px;
+    margin-left: 20px;
 }
 .ml-a {
     margin-left: auto;
@@ -51,6 +55,12 @@
 }
 .center {
     justify-content: center;
+}
+.pad-15px {
+    padding: 0px 15px 0 0;
+}
+.pad-20px {
+    padding: 20px 0 0 0;
 }
 .b-s {
     border: solid;
