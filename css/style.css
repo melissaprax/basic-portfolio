@@ -10,7 +10,12 @@
 .s-i {
     justify-content: space-between;
 }
-
+.f-e {
+    justify-content: flex-end;
+}
+.t-a-r{
+    text-align: right;
+}
 .w-100px {
     width: 100px 
 }
@@ -61,6 +66,9 @@
 }
 .pad-20px {
     padding: 20px 0 0 0;
+}
+.pad-40px {
+    padding: 40px 0 0 0;
 }
 .b-s {
     border: solid;
