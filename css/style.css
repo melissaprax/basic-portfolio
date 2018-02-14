@@ -19,6 +19,9 @@
 .w-100px {
     width: 100px 
 }
+.op:hover{
+    opacity: 0.5;
+}
 .mt-20px {
     margin-top: 20px;
 }
@@ -43,7 +46,7 @@
 .mt-100px {
     margin-top: 100px;
 }
-.fPO {
+.fpo {
     font-family: 'Poiret One', cursive, sans-serif;
 }
 .fs-100px {
@@ -54,6 +57,9 @@
 }
 .fs-25px {
     font-size: 25px;
+}
+.fs-45px {
+    font-size: 45px;
 }
 .space-around {
     justify-content: space-around;
@@ -69,6 +75,9 @@
 }
 .pad-40px {
     padding: 40px 0 0 0;
+}
+.pad-30px {
+    padding: 30 30 30 30;
 }
 .b-s {
     border: solid;
