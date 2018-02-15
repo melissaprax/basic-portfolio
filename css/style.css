@@ -47,19 +47,19 @@
     margin-top: 100px;
 }
 .fpo {
-    font-family: 'Poiret One', cursive, sans-serif;
+    font-family: 'Poiret One', sans-serif;
 }
 .fs-100px {
-    font-size: 100px; 
+    font-size: 6.25rem; 
 }
 .fs-20px {
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 .fs-25px {
     font-size: 25px;
 }
 .fs-45px {
-    font-size: 45px;
+    font-size: 2.5rem;
 }
 .space-around {
     justify-content: space-around;
