@@ -103,6 +103,16 @@
 .flex-end {
     justify-content: flex-end;
 }
+.icons {
+    width:2em;
+    height:2em;
+}
+.resume {
+    width:20.5em;
+    height:28em;
+}
+
+
 .path {
     stroke-dasharray: 100;
     stroke-dashoffset: 100;
